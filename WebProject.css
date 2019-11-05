@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+
+
+
+html {
+    background-color: black;
+}
+
+
+header{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 60px;
+    text-align: center;
+}
+
+h1{
+    margin-top: 30px;
+    text-align: left;
+}
+
+h2{
+    margin-top: -45px;
+    text-align: center;
+}
+
+h3{
+    margin-top: -41px;
+    text-align: right;
+}
+
+h4{
+    margin-top: 100px;
+    font-size: 50px;
+}
+
+h5{
+    margin-top: 40;
+    font-size: 20;
+}
+
+h6{
+    text-align: right;
+    margin-top: -56;
+    font-size: 20;
+}
+
+h7{
+    text-align: center;
+    font-size: 30;
+}
+
+h8{
+    text-align: center;
+    font-size: 30;
+}
+
+h9{
+    margin-top: 20px;
+    text-align: center;
+}
+
+h10{
+    margin-top: 20px;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+}
+
+h11{
+    font-size: 20px;
+    text-align: center;
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+h12{
+    font-size: 20px;
+    text-align: center;
+}
+
+h13{
+    text-align: center;
+    font-size: 30px;
+}
+
+article{
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 40px;
+}
